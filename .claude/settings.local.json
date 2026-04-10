@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/15126/Documents/BiDexGraspWeb/temp/BiDexGrasp.github.io/**)"
+    ],
+    "additionalDirectories": [
+      "c:\\Users\\15126\\Documents\\BiDexGraspWeb\\temp\\BiDexGrasp.github.io\\media\\hero"
+    ]
+  }
+}
