@@ -326,6 +326,11 @@ h2 {
   box-shadow: var(--shadow-soft);
 }
 
+.pub-row.highlighted {
+  background: linear-gradient(180deg, rgba(255, 249, 221, 0.98), rgba(255, 252, 238, 0.98));
+  border: 1px solid rgba(237, 198, 98, 0.52);
+}
+
 .pub-media {
   width: 27%;
   padding: 18px 10px 18px 18px;
