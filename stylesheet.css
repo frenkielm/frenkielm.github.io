@@ -410,6 +410,19 @@ h2 {
   color: var(--muted);
 }
 
+.pub-badge {
+  display: inline-flex;
+  align-items: center;
+  margin-top: 8px;
+  padding: 4px 10px;
+  border-radius: 999px;
+  background: linear-gradient(180deg, #f8d974, #efbf43);
+  color: #5c3d00;
+  font-size: 12px;
+  font-weight: 700;
+  box-shadow: 0 8px 18px rgba(239, 191, 67, 0.22);
+}
+
 .pub-links {
   display: flex;
   flex-wrap: wrap;
